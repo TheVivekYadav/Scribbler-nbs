@@ -9,7 +9,7 @@
   "jsnbversion": "v0.1",
   "cells": [
     {
-      "code": "",
+      "code": "//> html\n<h1> Hello World </h1>",
       "status": "",
       "output": "",
       "type": "code"
